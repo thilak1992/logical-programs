@@ -2,7 +2,7 @@ package com.Bridgelabz.Day06LogicalProblems;
 
 import java.util.Scanner;
 
-public class PerfectNumber {
+public class PerfectNumber {            //
 
     public static void main(String[] args) {
         //Taking input from the user
