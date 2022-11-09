@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 
-public class CouponNumbers {
+public class CouponNumbers {        //
 
     public static boolean isPresent(int a[], int num) {
         for (int i = 0; i < a.length; i++) {
