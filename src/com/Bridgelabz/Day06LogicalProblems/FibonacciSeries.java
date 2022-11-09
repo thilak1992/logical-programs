@@ -2,7 +2,7 @@ package com.Bridgelabz.Day06LogicalProblems;
 
 import java.util.Scanner;
 
-public class FibonacciSeries {
+public class FibonacciSeries {          //
 
     public static void main(String[] args) {
         //Taking input from user
