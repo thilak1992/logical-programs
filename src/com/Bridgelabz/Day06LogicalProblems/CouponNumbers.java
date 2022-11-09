@@ -3,6 +3,7 @@ package com.Bridgelabz.Day06LogicalProblems;
 import java.util.Random;
 import java.util.Scanner;
 
+
 public class CouponNumbers {
 
     public static boolean isPresent(int a[], int num) {
