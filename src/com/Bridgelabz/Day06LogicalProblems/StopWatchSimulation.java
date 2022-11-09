@@ -3,7 +3,7 @@ package com.Bridgelabz.Day06LogicalProblems;
 import java.util.Timer;
 import java.util.TimerTask;
 
-public class StopWatchSimulation {
+public class StopWatchSimulation {          //
 
     static int interval;
     static Timer timer;
