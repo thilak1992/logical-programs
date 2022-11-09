@@ -2,7 +2,7 @@ package com.Bridgelabz.Day06LogicalProblems;
 
 import java.util.Scanner;
 
-public class ReverseAnumber {
+public class ReverseAnumber {           //
 
     public static void main(String[] args) {
         System.out.println("Enter the number:");
